@@ -2,6 +2,8 @@
 
 Literally just a page with a countdown.
 
+![](http://i.imgur.com/uj0OPCE.png)
+
 ## Why?
 
 I have upcoming trips, and I wanted to see a countdown until my trip dates every time I open a new tab on Chrome.
